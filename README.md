@@ -65,7 +65,7 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![Screenshot 2023-12-29 225152](https://github.com/ALANZION/QRdecomposition/assets/145743064/5f8d9586-c6c7-4bbf-a737-bb99a9e0a923)
+![Screenshot 2023-12-29 225152](https://github.com/ALANZION/QRdecomposition/assets/145743064/b7934c9d-1ba6-404b-b4e5-7ea3aa7a5149)
 
 
 ```
